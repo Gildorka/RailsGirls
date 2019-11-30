@@ -15,3 +15,7 @@ th { border-bottom: 1px solid #DDD; }/*
  *= require_tree .
  *= require_self
  */
+ .gravatar {
+  height: 30px;
+  width: auto;
+}
